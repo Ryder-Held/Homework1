@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rjhel\\source\\repos\\DominionOfKings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B54200-2DA1-4B56-9B9C-601F5C89819E}|DominionOfKings.csproj|c:\\users\\rjhel\\source\\repos\\dominionofkings\\programdok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B54200-2DA1-4B56-9B9C-601F5C89819E}|DominionOfKings.csproj|solutionrelative:programdok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B54200-2DA1-4B56-9B9C-601F5C89819E}|DominionOfKings.csproj|c:\\users\\rjhel\\source\\repos\\dominionofkings\\kingdomworth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B54200-2DA1-4B56-9B9C-601F5C89819E}|DominionOfKings.csproj|solutionrelative:kingdomworth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KingdomWorth.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\DominionOfKings\\KingdomWorth.cs",
+              "RelativeDocumentMoniker": "KingdomWorth.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\DominionOfKings\\KingdomWorth.cs",
+              "RelativeToolTip": "KingdomWorth.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:48:24.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgramDOK.cs",
+              "DocumentMoniker": "C:\\Users\\rjhel\\source\\repos\\DominionOfKings\\ProgramDOK.cs",
+              "RelativeDocumentMoniker": "ProgramDOK.cs",
+              "ToolTip": "C:\\Users\\rjhel\\source\\repos\\DominionOfKings\\ProgramDOK.cs",
+              "RelativeToolTip": "ProgramDOK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:46:54.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

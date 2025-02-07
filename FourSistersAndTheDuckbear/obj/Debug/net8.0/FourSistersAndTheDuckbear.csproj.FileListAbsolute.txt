@@ -1,0 +1,28 @@
+C:\Users\rjhel\source\repos\Four Sisters and the Duckbear\bin\Debug\net8.0\FourSistersAndTheDuckbear.exe
+C:\Users\rjhel\source\repos\Four Sisters and the Duckbear\bin\Debug\net8.0\FourSistersAndTheDuckbear.deps.json
+C:\Users\rjhel\source\repos\Four Sisters and the Duckbear\bin\Debug\net8.0\FourSistersAndTheDuckbear.runtimeconfig.json
+C:\Users\rjhel\source\repos\Four Sisters and the Duckbear\bin\Debug\net8.0\FourSistersAndTheDuckbear.dll
+C:\Users\rjhel\source\repos\Four Sisters and the Duckbear\bin\Debug\net8.0\FourSistersAndTheDuckbear.pdb
+C:\Users\rjhel\source\repos\Four Sisters and the Duckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjhel\source\repos\Four Sisters and the Duckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.AssemblyInfoInputs.cache
+C:\Users\rjhel\source\repos\Four Sisters and the Duckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.AssemblyInfo.cs
+C:\Users\rjhel\source\repos\Four Sisters and the Duckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.csproj.CoreCompileInputs.cache
+C:\Users\rjhel\source\repos\Four Sisters and the Duckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.dll
+C:\Users\rjhel\source\repos\Four Sisters and the Duckbear\obj\Debug\net8.0\refint\FourSistersAndTheDuckbear.dll
+C:\Users\rjhel\source\repos\Four Sisters and the Duckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.pdb
+C:\Users\rjhel\source\repos\Four Sisters and the Duckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.genruntimeconfig.cache
+C:\Users\rjhel\source\repos\Four Sisters and the Duckbear\obj\Debug\net8.0\ref\FourSistersAndTheDuckbear.dll
+C:\Users\rjhel\source\repos\FourSistersAndTheDuckbear\bin\Debug\net8.0\FourSistersAndTheDuckbear.exe
+C:\Users\rjhel\source\repos\FourSistersAndTheDuckbear\bin\Debug\net8.0\FourSistersAndTheDuckbear.deps.json
+C:\Users\rjhel\source\repos\FourSistersAndTheDuckbear\bin\Debug\net8.0\FourSistersAndTheDuckbear.runtimeconfig.json
+C:\Users\rjhel\source\repos\FourSistersAndTheDuckbear\bin\Debug\net8.0\FourSistersAndTheDuckbear.dll
+C:\Users\rjhel\source\repos\FourSistersAndTheDuckbear\bin\Debug\net8.0\FourSistersAndTheDuckbear.pdb
+C:\Users\rjhel\source\repos\FourSistersAndTheDuckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjhel\source\repos\FourSistersAndTheDuckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.AssemblyInfoInputs.cache
+C:\Users\rjhel\source\repos\FourSistersAndTheDuckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.AssemblyInfo.cs
+C:\Users\rjhel\source\repos\FourSistersAndTheDuckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.csproj.CoreCompileInputs.cache
+C:\Users\rjhel\source\repos\FourSistersAndTheDuckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.dll
+C:\Users\rjhel\source\repos\FourSistersAndTheDuckbear\obj\Debug\net8.0\refint\FourSistersAndTheDuckbear.dll
+C:\Users\rjhel\source\repos\FourSistersAndTheDuckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.pdb
+C:\Users\rjhel\source\repos\FourSistersAndTheDuckbear\obj\Debug\net8.0\FourSistersAndTheDuckbear.genruntimeconfig.cache
+C:\Users\rjhel\source\repos\FourSistersAndTheDuckbear\obj\Debug\net8.0\ref\FourSistersAndTheDuckbear.dll
